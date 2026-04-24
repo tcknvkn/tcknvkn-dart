@@ -1,0 +1,20 @@
+# -----------------------------------------------------------------------------
+# Proje: tcknvkn-dart
+# Dosya: pubspec.yaml
+# Açıklama: Dart paket kimliği, bağımlılıklar ve yayınlama metadata ayarları.
+# Oluşturma Tarihi: 2026-04-24
+# Lisans: MIT
+# Site: https://www.tcknvkn.com
+# -----------------------------------------------------------------------------
+name: tcknvkn
+description: Dart için TCKN ve VKN doğrulama kütüphanesi.
+version: 1.0.0
+homepage: https://www.tcknvkn.com/kutuphaneler/dart
+repository: https://github.com/tcknvkn/tcknvkn-dart
+
+environment:
+  sdk: ^3.3.0
+
+dev_dependencies:
+  lints: ^5.1.1
+  test: ^1.25.8
